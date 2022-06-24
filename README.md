@@ -1,4 +1,4 @@
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/35332/logos/header.png?t=2022-03-23-01-05-50)
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/34349/logos/header.png?t=2022-03-09-00-33-57)
 
 # JPX Tokyo Stock Exchange Prediction
 
