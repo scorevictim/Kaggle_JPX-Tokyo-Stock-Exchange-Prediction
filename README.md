@@ -22,8 +22,14 @@ Data used in this project: <https://www.kaggle.com/competitions/jpx-tokyo-stock-
 
 - Model Building
 
-- File Export
+- Prediction Export
 
 ## Dependencies
 
-TBC
+This work is based on Python 3.9
+
+See all the needed libraries in "requirements.txt"
+
+To run most parts of the code locally, you can use "pip install -r requirements.txt" to replicate the environment. Make sure to new a python virtual environments to avoid conflicts.
+
+For the "Prediction Export" part, however, you need to use Kaggle notebook since it uses an Kaggle API. Thus, the recommended way of running the code is to upload the jupyter notebook to Kaggle.
