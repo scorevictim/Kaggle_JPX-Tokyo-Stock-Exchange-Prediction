@@ -62,7 +62,7 @@ class iter_test():
         return len(self.dates)
 
 class local_api():
-    def __init__(self, data_dir, start_date='2021-12-06', end_date='2022-02-28'):
+    def __init__(self, data_dir, start_date='2021-12-06', end_date='2022-01-06'):
         """
         This module simulates the online API in a local environment, in order for people to estimate running time and memory.
         Parameters:
